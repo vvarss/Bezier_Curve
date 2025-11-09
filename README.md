@@ -26,7 +26,12 @@ B'(t) = 3(1−t)²(P₁−P₀) + 6(1−t)t(P₂−P₁) + 3t²(P₃−P₂)
 * Inner control points follow the mouse with a soft spring effect
 * The curve bends smoothly like a flexible rope
 * Optional tangent vector shows direction of the curve at a specific point
-  
+
+## 📦Technologies used
+* HTML5
+* Javascript
+* Mathematical Bezier Curve Implementation
+* Physics concept
 ## ✨Output
 
 https://github.com/user-attachments/assets/3edfce80-fe77-4414-9724-46d0953ae6d1
