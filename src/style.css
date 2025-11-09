@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(14, 14, 27);
+    margin:0;
+}
+
+canvas{
+    display:block;
+}
+
+html,head {
+    color: rgb(99, 201, 164);
+}
